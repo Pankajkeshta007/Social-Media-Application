@@ -1,0 +1,22 @@
+.Bio-text{
+    font-family: cursive;
+    font-weight: 700;
+    letter-spacing: 2px;
+color: rgba(249, 248, 248, 0.919);
+text-shadow: 2px 8px 6px rgba(152, 141, 141, 0.678),
+                 0px -5px 35px rgba(255,255,255,0.3);
+
+}
+.Tabs-Style{
+    font-weight: 500;
+
+}
+.User-Name{
+    font-weight: 700;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    letter-spacing: 1px;
+
+}
+.Edit-Profile-Button{
+    border: 1px solid rgb(113, 110, 110);
+}

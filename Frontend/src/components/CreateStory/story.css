@@ -1,0 +1,15 @@
+.Story-Card-Styling{
+    border-radius: 12px;
+    padding: 10px 10px;
+    background-color: #282828;
+    box-shadow: rgba(185, 179, 179, 0.422) 0px 1px 4px;
+}
+.Story-Card-Styling img{
+    border-radius: 12px;
+}
+
+.Story-Card-Styling p{
+    padding: 4px 4px ;
+    font-weight: 700;
+    letter-spacing: 1px;
+}

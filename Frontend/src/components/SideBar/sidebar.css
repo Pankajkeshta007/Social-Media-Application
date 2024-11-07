@@ -1,0 +1,20 @@
+.Card{
+    /* background-color: #; */
+    box-shadow: rgba(231, 226, 226, 0.579) 0px 0px 8px 0px;
+}
+.Logout-Section{
+    margin-top: 10px;
+    border-top: 1px solid rgb(113, 109, 109);
+}
+.Sidebar-Element{
+    display: flex;
+    align-items: center;
+    gap: 5px ;
+    padding-left: 5px;
+   
+}
+.Sidebar-Element:hover{
+    border-radius: 40px;
+    background-image: linear-gradient(rgb(36, 36, 36),rgb(21, 21, 21))
+
+}

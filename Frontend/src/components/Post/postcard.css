@@ -1,0 +1,11 @@
+.Post-Card-Style{
+    background-color: #282828;
+    border-radius: 12px;
+    
+}
+.Image-Styling{
+    height: 300px;
+    padding: 10px 10px ;
+    border-radius: 16px;
+    overflow: hidden;
+}
