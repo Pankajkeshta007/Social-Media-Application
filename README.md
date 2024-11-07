@@ -1,9 +1,9 @@
-<h1>Technoloy Used :</h1>
-<h3>Frontend</h3>
-<h4>HTML5</h4>
-<h4>CSS3</h4>
-<h4>Bootstrap</h4>
-<h4>Tailwind</h4>
-<h4>React JS</h4>
+<h1>TECHNOLOGY USED :</h1>
+<h3> FOR FRONTEND DEVELOPMENT --</h3>
+<h5>HTML5</h5>
+<h5>CSS3</h5>
+<h5>Bootstrap</h5>
+<h5>Tailwind</h5>
+<h5>React JS</h5>
 
 
